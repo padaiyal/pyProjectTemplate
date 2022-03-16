@@ -1,5 +1,5 @@
 import unittest
-from unit_tests.multiply_two_numbers import multiply_two_nums
+from multiply_two_numbers import multiply_two_nums
 
 
 class MultiplyTwoNumsTest(unittest.TestCase):
