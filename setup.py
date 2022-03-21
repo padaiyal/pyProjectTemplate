@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name='projectTemplate',
     version='2021.12.14',
-    packages=['unittest'],
+    packages=[],
     url='https://github.com/pyPadaiyal/projectTemplate',
     license='Apache License 2.0',
     author='padaiyal',

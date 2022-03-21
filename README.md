@@ -20,10 +20,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![Apache License][license-shield]][license-url] <br>
-![Python build - Ubuntu latest][ubuntu-build-url]
-![Python build - Windows latest][windows-build-url]
-![Python build - MacOS latest][macos-build-url]
-![Published packages][published-packages-url]
+![Python build and linting][python-build-url]
 </div>
 
 <!--
@@ -93,7 +90,4 @@ Distributed under the Apache License. See [`LICENSE`][license-url] for more info
 [issues-url]: https://github.com/pyPadaiyal/projectTemplate/issues
 [license-shield]: https://img.shields.io/github/license/pyPadaiyal/projectTemplate.svg?style=for-the-badge
 [license-url]: https://github.com/pyPadaiyal/projectTemplate/blob/main/LICENSE
-[ubuntu-build-url]: https://github.com/pyPadaiyal/projectTemplate/workflows/ubuntu_build.yml/badge.svg?branch=main
-[windows-build-url]: https://github.com/pyPadaiyal/projectTemplate/workflows/windows_build.yml/badge.svg?branch=main
-[macos-build-url]: https://github.com/pyPadaiyal/projectTemplate/workflows/macos_build.yml/badge.svg?branch=main
-[published-packages-url]: https://github.com/pyPadaiyal/projectTemplate/workflows/Publish%20to%20GitHub%20packages/badge.svg
+[python-build-url]: https://github.com/padaiyal/pyProjectTemplate/actions/workflows/python_build.yml/badge.svg?branch=main
