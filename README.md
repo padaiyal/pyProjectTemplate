@@ -80,14 +80,14 @@ Distributed under the Apache License. See [`LICENSE`][license-url] for more info
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/pyPadaiyal/projectTemplate.svg?style=for-the-badge
-[contributors-url]: https://github.com/pyPadaiyal/projectTemplate/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/pyPadaiyal/projectTemplate.svg?style=for-the-badge
-[forks-url]: https://github.com/pyPadaiyal/projectTemplate/network/members
-[stars-shield]: https://img.shields.io/github/stars/pyPadaiyal/projectTemplate.svg?style=for-the-badge
-[stars-url]: https://github.com/pyPadaiyal/projectTemplate/stargazers
-[issues-shield]: https://img.shields.io/github/issues/pyPadaiyal/projectTemplate.svg?style=for-the-badge
-[issues-url]: https://github.com/pyPadaiyal/projectTemplate/issues
-[license-shield]: https://img.shields.io/github/license/pyPadaiyal/projectTemplate.svg?style=for-the-badge
-[license-url]: https://github.com/pyPadaiyal/projectTemplate/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/padaiyal/pyProjectTemplate.svg?style=for-the-badge
+[contributors-url]: https://github.com/padaiyal/pyProjectTemplate/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/padaiyal/pyProjectTemplate.svg?style=for-the-badge
+[forks-url]: https://github.com/padaiyal/pyProjectTemplate/network/members
+[stars-shield]: https://img.shields.io/github/stars/padaiyal/pyProjectTemplate.svg?style=for-the-badge
+[stars-url]: https://github.com/padaiyal/pyProjectTemplate/stargazers
+[issues-shield]: https://img.shields.io/github/issues/padaiyal/pyProjectTemplate.svg?style=for-the-badge
+[issues-url]: https://github.com/padaiyal/pyProjectTemplate/issues
+[license-shield]: https://img.shields.io/github/license/padaiyal/pyProjectTemplate.svg?style=for-the-badge
+[license-url]: https://github.com/padaiyal/pyProjectTemplate/blob/main/LICENSE
 [python-build-url]: https://github.com/padaiyal/pyProjectTemplate/actions/workflows/python_build.yml/badge.svg?branch=main
